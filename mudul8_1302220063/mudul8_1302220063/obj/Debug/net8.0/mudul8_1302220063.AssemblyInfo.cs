@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("mudul8_1302220063")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4345f14a76594af387a60f3ee60843697a75b966")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e45c56109588232b5bb34c68516725ffb4ba7b51")]
 [assembly: System.Reflection.AssemblyProductAttribute("mudul8_1302220063")]
 [assembly: System.Reflection.AssemblyTitleAttribute("mudul8_1302220063")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

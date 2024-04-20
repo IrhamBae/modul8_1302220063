@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ErKIhJh4QupV15HQq3YxIKPVnFrCiA0UgapZAyqitjuMiAKd/yll82NCKyJcDinzgWDjFOpEg0z+fFfVr4pAjQ==",
+  "dgSpecHash": "TaCvIKqdcPwd8GZmZ4SVqPKosFIk/M97a7bH86yCyBUqGMaIDhxV9EJbFZYw6gRl83zmFpCAseUY9QnflBwSog==",
   "success": true,
   "projectFilePath": "C:\\Users\\irham_nrphlax\\Documents\\KPL\\mudul8_1302220063\\mudul8_1302220063\\mudul8_1302220063.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\irham_nrphlax\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
